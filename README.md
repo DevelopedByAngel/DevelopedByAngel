@@ -12,6 +12,16 @@
 
 <p align="center">
   <strong>Connect with me at</strong>
-<p><a><img src="linkedin-box-fill.svg"/></a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/angel-francis-267906171/">
+    <img src="linkedin-box-fill (1).svg">
+  </a>
+  <a href="mailto: angelfrancis1111@example.com">
+    <img src="mail-fill.svg">
+  </a>
+<a href="https://student.studymonk.in/#/u/angelfrancis">
+  <img src="medal-fill.svg">
+  </a>
+</p>
 </p>
 
