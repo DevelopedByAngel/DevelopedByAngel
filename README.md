@@ -14,13 +14,13 @@
   <strong>Connect with me at</strong>
 <p align="center">
   <a href="https://www.linkedin.com/in/angel-francis-267906171/">
-    <img src="linkedin-box-fill (1).svg">
+    <img src="https://raw.githubusercontent.com/DevelopedByAngel/DevelopedByAngel/master/linkedin-box-fill%20(1).svg">
   </a>
   <a href="mailto: angelfrancis1111@example.com">
-    <img src="mail-fill.svg">
+    <img src="https://raw.githubusercontent.com/DevelopedByAngel/DevelopedByAngel/master/mail-fill.svg">
   </a>
 <a href="https://student.studymonk.in/#/u/angelfrancis">
-  <img src="medal-fill.svg">
+  <img src="https://raw.githubusercontent.com/DevelopedByAngel/DevelopedByAngel/master/medal-fill.svg">
   </a>
 </p>
 <p align="center">
