@@ -14,6 +14,9 @@
 <img width="70" src="https://image.flaticon.com/icons/svg/919/919852.svg"><img width="70" src="https://image.flaticon.com/icons/svg/919/919828.svg">
 <img width="70" src="https://image.flaticon.com/icons/svg/226/226777.svg">
 <img width="70" src="https://image.flaticon.com/icons/svg/569/569809.svg">
+<br>
+<br>
+<hr>
 <p align="center">
   <strong>Connect with me at</strong>
 <p align="center">
