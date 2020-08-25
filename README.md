@@ -23,5 +23,8 @@
   <img src="medal-fill.svg">
   </a>
 </p>
+<p align="center">
+<strong><em><a href="https://developedbyangel.github.io/Myportfolio/">Angel Francis</a></em></strong>
+  </p>
 </p>
 
