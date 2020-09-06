@@ -8,7 +8,7 @@
 * Working on some good python projects that enhance my skills😇.
 * I’m currently learning Full stack Development✨
 * Always admire how **python** has a soution for all the problems I think of💫
-* To view my projects visit [My works](https://developedbyangel.github.io/Myportfolio/portfolioworks.html)
+* To view my projects visit <a href="https://developedbyangel.github.io/Myportfolio/portfolioworks.html" target="_blank">My works</a>
 ### Skills
 <img style="display:inline;" width="70" src="https://image.flaticon.com/icons/svg/919/919827.svg"><img style="display:inline" width="70" src="https://image.flaticon.com/icons/svg/919/919826.svg">
 <img width="70" src="https://image.flaticon.com/icons/svg/919/919852.svg"><img width="70" src="https://image.flaticon.com/icons/svg/919/919828.svg">
@@ -20,18 +20,18 @@
 <p align="center">
   <strong>Connect with me at</strong>
 <p align="center">
-  <a href="https://www.linkedin.com/in/angel-francis-267906171/">
+  <a href="https://www.linkedin.com/in/angel-francis-267906171/" target="_blank">
     <img src="https://raw.githubusercontent.com/DevelopedByAngel/DevelopedByAngel/master/linkedin-box-fill%20(1).svg">
   </a>
-  <a href="mailto: angelfrancis1111@example.com">
+  <a href="mailto: angelfrancis1111@example.com" target="_blank">
     <img src="https://raw.githubusercontent.com/DevelopedByAngel/DevelopedByAngel/master/mail-fill.svg">
   </a>
-<a href="https://student.studymonk.in/#/u/angelfrancis">
+<a href="https://student.studymonk.in/#/u/angelfrancis" target="_blank">
   <img src="https://raw.githubusercontent.com/DevelopedByAngel/DevelopedByAngel/master/medal-fill.svg">
   </a>
 </p>
 <p align="center">
-<strong><em><a href="https://developedbyangel.github.io/Myportfolio/">Angel Francis</a></em></strong>
+<strong><em><a href="https://developedbyangel.github.io/Myportfolio/" target="_blank">Angel Francis</a></em></strong>
   </p>
 </p>
 
