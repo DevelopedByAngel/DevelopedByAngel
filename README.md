@@ -31,7 +31,7 @@
   </a>
 </p>
 <p align="center">
-<strong><em><a href="https://developedbyangel.github.io/Myportfolio/" target="blank_">Angel Francis</a></em></strong>
+<strong><em><a href="https://developedbyangel.github.io/Myportfolio/" target="blank_">Angel F</a></em></strong>
   </p>
 </p>
 
