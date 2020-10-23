@@ -5,6 +5,7 @@
 
 
 <!--**DevelopedByAngel/DevelopedByAngel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+* Front end developer🤩
 * Working on some good python projects that enhance my skills😇.
 * I’m currently learning Full stack Development✨
 * Always admire how **python** has a soution for all the problems I think of💫
