@@ -11,12 +11,14 @@
 * Always admire how **python** has a soution for all the problems I think of💫
 * To view my projects visit <a href="https://developedbyangel.github.io/Myportfolio/portfolioworks.html" target="blank_">My works</a>
 ### Skills
-<img style="display:inline;" width="70" src="https://image.flaticon.com/icons/svg/919/919827.svg"><img style="display:inline" width="70" src="https://image.flaticon.com/icons/svg/919/919826.svg">
-<img width="70" src="https://image.flaticon.com/icons/svg/919/919852.svg"><img width="70" src="https://image.flaticon.com/icons/svg/919/919828.svg">
-<img width="70" src="https://image.flaticon.com/icons/svg/226/226777.svg">
-<img width="70" src="https://image.flaticon.com/icons/svg/1260/1260667.svg">
-<img width="70" src="https://image.flaticon.com/icons/svg/919/919825.svg">
-<img width="70" src="https://image.flaticon.com/icons/svg/569/569809.svg">
+=> HTML, CSS
+=> Java Script
+=> Python
+=> Java
+=> OpenCV
+=> Database
+=> React JS
+=> Node JS
 <br>
 <br>
 <hr>
