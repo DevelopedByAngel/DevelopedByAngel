@@ -11,13 +11,13 @@
 * Always admire how **python** has a soution for all the problems I think of💫
 * To view my projects visit <a href="https://developedbyangel.github.io/Myportfolio/portfolioworks.html" target="blank_">My works</a>
 ### Skills
-=> HTML, CSS
-=> Java Script
-=> Python
-=> Java
-=> OpenCV
-=> Database
-=> React JS
+=> HTML, CSS<br>
+=> Java Script<br>
+=> Python<br>
+=> Java<br>
+=> OpenCV<br>
+=> Database<br>
+=> React JS<br>
 => Node JS
 <br>
 <br>
