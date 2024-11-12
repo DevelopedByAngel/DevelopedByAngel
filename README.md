@@ -13,11 +13,11 @@
 ### Skills
 => HTML, CSS<br>
 => Java Script<br>
-=> Python<br>
-=> Java<br>
-=> OpenCV<br>
-=> Database<br>
 => React JS<br>
+=> Java<br>
+=> Spring MVC<br>
+=> MySQL<br>
+=> Python<br>
 => Node JS
 <br>
 <br>
